@@ -7,15 +7,8 @@
 </template>
 
 <script>
-// import VueZoom from "../dist/zoom.common";
-// import "../dist/zoom.css";
-import VueZoom from "./components/zoom";
-
 export default {
     name: "app",
-    components: {
-        VueZoom
-    },
     methods: {
         onClickImg() {
             alert("233");

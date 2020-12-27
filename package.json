@@ -12,7 +12,7 @@
   ],
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build --target lib --name zoom ./src/components/zoom.vue",
+    "build": "vue-cli-service build --target lib --name zoom ./src/components/index.js",
     "lint": "vue-cli-service lint",
     "trypublish": "npm run build && npm publish"
   },

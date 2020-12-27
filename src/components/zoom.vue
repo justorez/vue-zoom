@@ -42,10 +42,6 @@ export default {
             scale: 1,
             moveX: 0,
             moveY: 0,
-            startMoveX: 0,
-            startMoveY: 0,
-            maxMoveX: 0,
-            maxMoveY: 0,
             moving: false,
             zooming: false
         };
