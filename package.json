@@ -1,7 +1,6 @@
 {
   "name": "@orez/vue-zoom",
   "version": "1.0.0",
-  "private": true,
   "main": "dist/zoom.common.js",
   "author": "justorez <alonezero@foxmail.com>",
   "license": "MIT",
